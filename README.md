@@ -12,7 +12,9 @@ orders upon a specific ticket upon its availability.
 ### assgin2
 Simple payment microservice: Clients make payment upon their order.
 ### center
-Server using the eureka registry, manages various microservices.
+Server using the eureka registry, manages various microservices.Form a service cluster with center1 to keep watch on each other.
+### center1
+Server using the eureka registry, manages various microservices.Form a service cluster with center to keep watch on each other.
 ### gateway
 An API gateway for path rewriting to enhance security.
 
@@ -33,6 +35,8 @@ assign1是机票订购微服务，飞机的所有座位单独编号，现有用�
 ### assgin2
 assgin2是简单支付微服务，客户按订单支付，查看是否购买成功。
 ### center
-center是服务端，利用eureka注册中心，来管理各种微服务。
+center是服务端，利用eureka注册中心，来管理各种微服务。与center1形成服务集群，互相守望。
+### center1
+center是服务端，利用eureka注册中心，来管理各种微服务。与center形成服务集群，互相守望。
 ### gateway
 gateway是一个API网关，用以进行路径重写，加强安全性。
