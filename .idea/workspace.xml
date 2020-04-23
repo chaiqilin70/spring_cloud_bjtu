@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a377272b-f622-45d4-a386-c39050176584" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center1/src/main/java/com/runner/RunCenter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center1/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center1/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center1/target/classes/com/runner/RunCenter1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign1/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign1/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign1/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign1/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign2/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign2/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assign2/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/center/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/center/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/center/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/GateWayMain9527.class" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/com/GateWayMain9527.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/config/GateWayConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/com/config/GateWayConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a377272b-f622-45d4-a386-c39050176584" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/assign2/target/" />
@@ -120,7 +96,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="60">
               <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
@@ -534,16 +510,23 @@
       <option name="presentableId" value="Default" />
       <updated>1587553079900</updated>
       <workItem from="1587553082390" duration="7636000" />
-      <workItem from="1587607331484" duration="6588000" />
+      <workItem from="1587607331484" duration="7087000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;第二次修改&quot;">
+      <created>1587614981730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587614981730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14224000" />
+    <option name="totallyTimeSpent" value="14723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -619,6 +602,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;第二次修改&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;第二次修改&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spring_cloud_bjtu.iml">
@@ -791,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="60">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
